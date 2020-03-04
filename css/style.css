@@ -1,0 +1,59 @@
+body {
+    font-family: Roboto Slab, sans-serif;
+}
+
+.winSize {
+    width: 100%;
+    max-width: 712px;
+    min-width: 80px; 
+}
+
+.containare {
+    height: 15px;
+    margin: 10px 20px; 
+}
+
+.header {
+    text-align: 10px center;
+    font-size: 28px;
+    padding: 10px;
+    background: rgb(104, 15, 15);
+    color: white;
+}
+
+.title {
+    padding-left: 30%;
+}
+
+.imgDiv {
+    margin: 50px 40px 0px 20px;
+}
+
+.mainText {
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.blueMark {
+    color: blue;
+}
+
+.carGroup {
+    margin: 20px 10%;
+}
+
+.car {
+    border: 2px dashed black;
+}
+
+.lastCon{
+    margin: 10px 20px;
+}
+
+.footer {
+    text-align: 10px center;
+    font-size: 14px;
+    padding: 10px;
+    background: rgb(0, 0, 0);
+    color: white;
+}
